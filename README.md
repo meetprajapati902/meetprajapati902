@@ -1,82 +1,44 @@
-# 👋 Hi, I'm Meet Prajapati
+# python-expense-tracker
+A beginner-friendly Python expense tracker for managing daily expenses.
+# 💰 Python Expense Tracker
 
-### 💻 Computer Engineering Student | Developer in Progress
+A beginner-friendly Python application for keeping track of daily expenses.
 
-I'm a 3rd-semester Computer Engineering student interested in software development, web development, AI/ML, and problem solving.
+## 📌 About the Project
 
-I enjoy learning new technologies and building practical projects to improve my programming and development skills.
+This project allows users to add, view, search, and delete their expenses. It also calculates the total amount spent.
 
----
+The project was created to practice basic Python programming concepts and file handling.
 
-## 🎓 About Me
+## ✨ Features
 
-- 🎓 Computer Engineering Student
-- 📚 Currently in 3rd Semester
-- 💻 Interested in Software Development
-- 🌐 Exploring Web Development
-- 🤖 Exploring AI & Machine Learning
-- 🗄️ Learning DBMS & SQL
-- 🧠 Improving Problem Solving & DSA
-- 🚀 Building projects and learning through practice
+- ➕ Add an expense
+- 👀 View all expenses
+- 🔍 Search expenses
+- 🗑️ Delete an expense
+- 💰 Calculate total expenses
+- 💾 Save expense data to a file
+- 🖥️ Simple command-line interface
 
----
+## 🛠️ Technologies Used
 
-## 🛠️ Skills & Technologies
-
-### Programming
-- C
-- C++
 - Python
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
+## 📚 Python Concepts Used
 
-### Database
-- SQL / MySQL
+- Variables
+- Input and Output
+- If-Else Statements
+- Loops
+- Lists
+- Functions
+- File Handling
 
-### Tools
-- Git
-- GitHub
-- VS Code
+## ▶️ How to Run
 
----
+1. Download or clone this repository.
+2. Open the project folder in VS Code or another Python editor.
+3. Run the following command:
 
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Web Development
-- Database Management Systems
-- Python
-- JavaScript
-- AI & Machine Learning
-- Git & GitHub
-
----
-
-## 🚀 Projects
-
-I'm currently building projects to improve my practical skills.
-
-More projects will be added here as I learn and build.
-
----
-
-## 🎯 My Goal
-
-**Learn → Build → Improve → Share**
-
-My goal is to continuously improve my development skills by building real-world projects and learning new technologies.
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: Coming Soon
-- 🌐 Portfolio: Coming Soon
-- 📧 Email: Add your professional email here
-
----
-
-⭐ Thanks for visiting my profile!
+```bash
+python expense_tracker.py
